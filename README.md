@@ -19,4 +19,4 @@ To run the compiled program:
 ## Dependencies
 
 - C++ Standard Library
-- For Windows users, the code uses the `windows.h` library to clear the console. For UNIX-like systems, it uses the `unistd.h` library. If you encounter issues with console clearing, you may need to adjust this part of the code.
+- For Windows users, the code uses the `windows.h` library to clear the console. For UNIX-like systems, it uses the `unistd.h` library.
